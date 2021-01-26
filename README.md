@@ -1,4 +1,4 @@
-# Korg Volca Construction Kit
+# Korg Volca Keys Construction Kit
 
 A tiny construction set made with a tiny synth. 
 
